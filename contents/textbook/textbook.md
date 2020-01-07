@@ -9,23 +9,14 @@
 
 # Textbook
 
-**Lecture 1**
-* [Static Vs. Dynamic Typing](lecture01/staticVsDynamicTyping.html) [:fas-pen:](https://github.com/nus-cs-2030/ay1920-s2/edit/master/contents/textbook/lecture01/staticVsDynamicTyping.md)
+<br>
 
-**Lecture 2**
+<panel header="## **Lecture 1**" no-close>
 
-**Lecture 3**
+Topics to be confirmed...
 
-**Lecture 4**
+</panel>
 
-**Lecture 5**
+<panel header="More Topics to come..." no-close>
 
-**Lecture 6**
-
-**Lecture 7**
-
-**Lecture 8**
-
-**Lecture 9**
-
-**Lecture 10**
+</panel>
